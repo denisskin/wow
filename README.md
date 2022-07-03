@@ -8,7 +8,7 @@ For each incoming request, generated and send to client a token with given accur
 The client needs to find **nonce** such that the final hash will be with a given accuracy.
 
 ``` 
-hash(token || nonce) < 1/difficulty
+hash(token | nonce) < 1 / difficulty
 ```
 
 SHA-256 is used as the PoW hash-function.
