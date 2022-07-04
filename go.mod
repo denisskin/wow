@@ -1,3 +1,3 @@
-module github.com/denisskin/word-of-wisdom
+module github.com/denisskin/wow
 
 go 1.18

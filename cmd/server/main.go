@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/denisskin/word-of-wisdom/wow_server"
+	"github.com/denisskin/wow/wow_server"
 )
 
 var (

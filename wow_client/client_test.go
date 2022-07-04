@@ -1,7 +1,7 @@
 package wow_client
 
 import (
-	"github.com/denisskin/word-of-wisdom/wow_server"
+	"github.com/denisskin/wow/wow_server"
 	"testing"
 	"time"
 )

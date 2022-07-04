@@ -3,8 +3,8 @@ package wow_server
 import (
 	"errors"
 	"fmt"
-	"github.com/denisskin/word-of-wisdom/common/netutils"
-	"github.com/denisskin/word-of-wisdom/common/pow"
+	"github.com/denisskin/wow/common/netutils"
+	"github.com/denisskin/wow/common/pow"
 	"log"
 	"net"
 	"time"
